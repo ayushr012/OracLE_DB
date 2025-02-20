@@ -2,21 +2,12 @@
 
 ## Overview
 
-    This repository contains a detailed reference guide to Oracle PL/SQL built-in functions. These functions are pre-defined by Oracle and are essential for database operations and data manipulation. 
+This repository contains a detailed reference guide to Oracle PL/SQL built-in functions. These functions are pre-defined by Oracle and are essential for database operations and data manipulation. 
 Types of Functions
 
 ## Oracle built-in functions are categorized into four main types:
-
-                 Column-Level Functions
-
-                Group Functions
-
-                Conversion Functions
-
-                General Functions
-
-                Column-Level Functions
-
+  Column-Level Functions:
+  Group Functions   Conversion Functions    General Functions     Column-Level Functions
 These functions operate on individual column values and are further divided into:
 
 ## Number Functions
