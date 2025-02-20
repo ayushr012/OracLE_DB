@@ -6,9 +6,9 @@ This repository contains a detailed reference guide to Oracle PL/SQL built-in fu
 Types of Functions
 
 ## Oracle built-in functions are categorized into four main types:
-  Column-Level Functions:
-  Group Functions   Conversion Functions    General Functions     Column-Level Functions
-These functions operate on individual column values and are further divided into:
+  **Column-Level Functions:**
+  **Group Functions  |  Conversion Functions  |   General Functions   |   Column-Level Functions**
+  These functions operate on individual column values and are further divided into:
 
 ## Number Functions
      (e.g., ABS(), POWER(), MOD(), SQRT(), SIGN())
