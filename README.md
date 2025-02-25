@@ -1,4 +1,4 @@
-# Oracle PL/SQL Built-in Functions ~ Ayush
+# Oracle PL/SQL Built-in Functions 
 
 ## Overview
 
@@ -48,6 +48,7 @@ Types of Functions
       SELECT ABS(-100) FROM DUAL; -- Output: 100
       SELECT INITCAP('hello world') FROM DUAL; -- Output: Hello World
       SELECT ADD_MONTHS(SYSDATE, 2) FROM DUAL; -- Adds 2 months to the current date
+## ~ Docs by Ayush      
 
 
 Feel free to contribute by adding more examples or improving the documentation.
